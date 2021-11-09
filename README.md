@@ -1,0 +1,2 @@
+# newType
+new types typeScript
